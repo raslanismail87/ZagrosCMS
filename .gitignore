@@ -143,6 +143,11 @@ uploads/
 media/
 static/uploads/
 
+# Reference documentation (keep local only)
+cms-reference-docs/
+*-docs-as-reference/
+docs-reference/
+
 # Backup files
 *.bak
 *.backup
